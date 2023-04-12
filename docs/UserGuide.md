@@ -13,11 +13,14 @@ This User Guide will guide you through installing the app, getting familiarised 
 If this is your first time using this Guide, you may refer to this segment
 on [how to use our User Guide](#how-to-use-the-user-guide)
 
+<div style="page-break-after: always;"></div>
+
 ## Table of Contents
 * Table of Contents
 {:toc}
 
----
+<div style="page-break-after: always;"></div>
+
 ## About MedInfo
 MedInfo is a simple application that will help you manage your patients' **statuses, wards,
 discharge dates**, and ward **occupancies**. <br>
@@ -76,6 +79,8 @@ app will contain some sample data for you to try commands.<br>
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<div style="page-break-after: always;"></div>
+
 ## User Interface Overview
 
 ![UiOverview](images/UiOverview.png)
@@ -92,6 +97,8 @@ The main GUI has 7 sections as highlighted above.
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<div style="page-break-after: always;"></div>
+
 ## How to use the User Guide
 
 ### Navigation
@@ -112,6 +119,7 @@ for a keyword.
 | :exclamation:        | Information that is crucial to know before using a command. |
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Features
 
@@ -148,7 +156,10 @@ yourself with the command format from the notes below.
   along with it.<br>
   e.g. if the command specifies `help 123`, it will be interpreted as `help`.
 
+[Back to Table of Contents](#table-of-contents)
+
 </div>
+<div style="page-break-after: always;"></div>
 
 ## Patient Features
 ### Adding a patient to the system: `add`
@@ -237,7 +248,7 @@ Examples:
 
 ### Finding patients by name in the system: `find`
 
-Shows a list of all patients with their details that match input name or NRIC.
+Shows a list of all patients with their details that match input field.
 
 Format: `find name/NAME`, `find nric/NRIC`, `find s/STATUS`, `find w/WARD`
 
@@ -284,10 +295,9 @@ Examples:
 
 `delete 1`
 
-
-
-
 [Back to Table of Contents](#table-of-contents)
+
+<div style="page-break-after: always;"></div>
 
 ## Ward Features
 ### Adding a ward to the system: `addward`
@@ -355,6 +365,8 @@ Examples:
 
 [Back to Table of Contents](#table-of-contents)
 
+<div style="page-break-after: always;"></div>
+
 ## Utility Features
 ### Clearing all data : `clear`
 
@@ -406,6 +418,7 @@ all data and starting anew.
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## FAQ :raising_hand:
 
@@ -429,6 +442,7 @@ the file that contains the data of your previous MedInfo home folder.<br>
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Command summary
 
@@ -450,6 +464,7 @@ the file that contains the data of your previous MedInfo home folder.<br>
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Glossary
 
