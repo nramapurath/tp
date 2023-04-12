@@ -87,7 +87,7 @@ The main GUI has 7 sections as highlighted above.
 - **_Adjustable Panels_**: Click and drag on the purple highlighted areas to customize the panel sizes to your preference.
 - **_Patient List_**: List of patients you have.
 - **_Ward List_**: List of wards you have.
-- **_Save Location and Stats_**: Status bar which displays the location of data storage and some statistics of your hospital.
+- **_Save Location and Statistics_**: Status bar which displays the location of data storage and some statistics of your hospital.
 
 [Back to Table of Contents](#table-of-contents)
 
