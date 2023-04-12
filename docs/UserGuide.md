@@ -435,8 +435,8 @@ to start entering patients into the system, the waiting room is made un-deletabl
 
 **Q**: How do I transfer my data to another device/computer?<br>
 
-**A**: Install the app in the other device/ computer and overwrite the empty data file it creates with
-the file that contains the data of your previous MedInfo home folder.<br>
+**A**: Install the app in the other device/computer and overwrite the empty data file it creates with the JSON file
+from your previous instance of MedInfo. This file can be found at `[JAR file location]/data/medinfo.json`<br>
 <br>
 
 [Back to Table of Contents](#table-of-contents)
@@ -447,7 +447,7 @@ the file that contains the data of your previous MedInfo home folder.<br>
 ## Command summary
 
 | Action          | Format, Examples                                                                                    |
-| --------------- | --------------------------------------------------------------------------------------------------- |
+|-----------------|-----------------------------------------------------------------------------------------------------|
 | **Add**         | `add nric/NRIC name/NAME [s/STATUS]` <br> e.g., `add nric/S1234567A name/John Doe s/GREEN`          |
 | **List**        | `list`                                                                                              |
 | **Edit**        | `edit INDEX [s/STATUS] [w/WARD] [d/DISCHARGE]`<br> e.g.,`edit 1 s/GREEN`                            |
