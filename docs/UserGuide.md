@@ -78,7 +78,6 @@ app will contain some sample data for you to try commands.<br>
 
 [Back to Table of Contents](#table-of-contents)
 
----
 <div style="page-break-after: always;"></div>
 
 ## User Interface Overview
@@ -96,7 +95,6 @@ The main GUI has 7 sections as highlighted above.
 
 [Back to Table of Contents](#table-of-contents)
 
----
 <div style="page-break-after: always;"></div>
 
 ## How to use the User Guide
@@ -118,7 +116,6 @@ for a keyword.
 | :bulb:               | Tips that will optimize your usage of MedInfo.              |
 | :exclamation:        | Information that is crucial to know before using a command. |
 
----
 <div style="page-break-after: always;"></div>
 
 ## Features
@@ -186,7 +183,6 @@ Examples:
 
 [Back to Table of Contents](#table-of-contents)
 
-
 ### Listing all patients in the system: `list`
 
 Shows a list of all patients with their details in the system.
@@ -194,7 +190,6 @@ Shows a list of all patients with their details in the system.
 Format: `list`
 
 [Back to Table of Contents](#table-of-contents)
-
 
 ### Editing a patient’s details in the system: `edit`
 
@@ -214,7 +209,6 @@ Examples:
 - `edit 4 d/27/07/2023 1600` Edits the discharge date-time of the fourth currently displayed patient to be `27/07/2023 1600` which is read as 27th July 2023 1600hrs.
 
 [Back to Table of Contents](#table-of-contents)
-
 
 ### Sorting all patients in the system: `sort`
 
@@ -245,10 +239,9 @@ Examples:
 
 [Back to Table of Contents](#table-of-contents)
 
-
 ### Finding patients by name in the system: `find`
 
-Shows a list of all patients with their details that match input field.
+Shows a list of all patients with their details that match the input field.
 
 Format: `find name/NAME`, `find nric/NRIC`, `find s/STATUS`, `find w/WARD`
 
@@ -271,7 +264,6 @@ Examples:
   ![result for 'find alex david'](images/findJohnCarlosResult.png)
 
 [Back to Table of Contents](#table-of-contents)
-
 
 ### Deleting a patient from the system: `delete`
 
@@ -320,7 +312,6 @@ Examples:
 - `addward w/A01 c/25` Adds the ward with name `A01` and capacity `25` to the system.
 
 [Back to Table of Contents](#table-of-contents)
-
 
 ### Editing a ward's details in the system: `editward`
 
@@ -417,7 +408,6 @@ all data and starting anew.
 
 [Back to Table of Contents](#table-of-contents)
 
----
 <div style="page-break-after: always;"></div>
 
 ## FAQ :raising_hand:
@@ -441,7 +431,6 @@ from your previous instance of MedInfo. This file can be found at `[JAR file loc
 
 [Back to Table of Contents](#table-of-contents)
 
----
 <div style="page-break-after: always;"></div>
 
 ## Command summary
@@ -463,7 +452,6 @@ from your previous instance of MedInfo. This file can be found at `[JAR file loc
 
 [Back to Table of Contents](#table-of-contents)
 
----
 <div style="page-break-after: always;"></div>
 
 ## Glossary
@@ -481,6 +469,5 @@ from your previous instance of MedInfo. This file can be found at `[JAR file loc
 | **Occupancy**        | The number of patients in a given ward at a point in time.                                                                                                             |
 | **Status**           | A code indicating a patient's current condition. MedInfo works with 4 statuses: GRAY (unknown), GREEN (stable), YELLOW (serious), and RED (critical).                  |
 | **Ward**             | A separate room in a hospital, typically allocated to a particular type of patient.                                                                                    |
-
 
 [Back to Table of Contents](#table-of-contents)
