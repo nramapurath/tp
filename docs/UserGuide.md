@@ -299,10 +299,6 @@ Format: `addward w/WARD [c/CAPACITY]`
 - The ward name is represented as an alphanumeric string. E.g `A01`.
 - The capacity is a positive integer. E.g `50`.
 
-<!-- EXAMPLE OF TIP -->
-<div markdown="span" class="alert alert-primary">:bulb: **Tip:**
-</div>
-
 <div markdown="block" class="alert alert-info">
 
 **:information_source: Note about `add`:**
