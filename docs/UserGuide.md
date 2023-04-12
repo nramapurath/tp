@@ -477,6 +477,7 @@ the file that contains the data of your previous MedInfo home folder.<br>
 | **GUI**              | Graphical User Interface. A form of user interface that allows users to interact primarily through graphics.                                                           |
 | **Home folder**      | The main folder you wish to run MedInfo in. On running MedInfo, this folder will become populated with data and preference files.                                      |
 | **In-process**       | The process of checking in patients with their identifying information before they consult a medical professional.                                                     |
+| **JSON**             | A lightweight text-based data-interchange format for representing structured data.                                                                                     |
 | **Occupancy**        | The number of patients in a given ward at a point in time.                                                                                                             |
 | **Status**           | A code indicating a patient's current condition. MedInfo works with 4 statuses: GRAY (unknown), GREEN (stable), YELLOW (serious), and RED (critical).                  |
 | **Ward**             | A separate room in a hospital, typically allocated to a particular type of patient.                                                                                    |
