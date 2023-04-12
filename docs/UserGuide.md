@@ -156,9 +156,9 @@ yourself with the command format from the notes below.
   along with it.<br>
   e.g. if the command specifies `help 123`, it will be interpreted as `help`.
 
-[Back to Table of Contents](#table-of-contents)
-
 </div>
+
+[Back to Table of Contents](#table-of-contents)
 <div style="page-break-after: always;"></div>
 
 ## Patient Features
